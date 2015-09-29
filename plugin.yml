@@ -1,0 +1,6 @@
+name: Creative+
+version: 0.1
+api: [1.10.0]
+author: Taytan9912
+main: MoreCreativeItems\MoreCreativeItems
+description: More items for creative gamemode
