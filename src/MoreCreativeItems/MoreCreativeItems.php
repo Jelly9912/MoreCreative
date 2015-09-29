@@ -7,7 +7,7 @@ use pocketmine\item\Item;
 use pocketmine\event\Listener;
 use pocketmine\Player;
 
-class MoreCreativeItems extends PluginBase implements Listemer {
+class MoreCreativeItems extends PluginBase implements Listener {
   
   public function onLoad() {
     $this->getLogger()->info("Loading ...");
