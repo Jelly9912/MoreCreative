@@ -32,7 +32,7 @@ class MoreCreativeItems extends PluginBase implements Listener {
     item::addCreativeItem(Item::get(330, 0));
   }
   public function onDisable() {
-    $this->getLogger()->info("Disabled :(");
+    $this->getLogger()->info("Disabled");
   }
 }
 
