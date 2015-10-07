@@ -1,6 +1,6 @@
 name: MoreCreative
 version: 0.1
 api: [1.12.0]
-author: Taytan9912
+author: Jelly9912
 main: MoreCreativeItems\MoreCreativeItems
 description: More items for creative gamemode
